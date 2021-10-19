@@ -1,0 +1,10 @@
+Rajabzadeh.exe: None Uknown Command !
+sanami.exe: from 4,0 to 4,1
+Rajabzadeh.exe: None Uknown Command !
+sanami.exe: from 4,1 to 4,2
+Rajabzadeh.exe: None Uknown Command !
+sanami.exe: from 4,2 to 4,3
+Rajabzadeh.exe: None Uknown Command !
+sanami.exe: from 4,3 to 4,4
+Rajabzadeh.exe: None Uknown Command !
+Player sanami.exe won
